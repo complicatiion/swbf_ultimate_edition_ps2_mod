@@ -56,6 +56,10 @@ See **Section 8: Credits / Attribution** for more information.
 
 ## 3. Installation Guide
 
+### DOWNLOAD
+
+gren CODE Button --> DOWNLOAD as ZIP
+
 ### A. Extract the Original ISO
 
 1. Create a working folder, for example:
