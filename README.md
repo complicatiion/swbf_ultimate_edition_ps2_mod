@@ -221,6 +221,3 @@ Installation is straightforward as long as you use your own dumped **PS2 Battlef
 
 ---
 
-## Build / Compilation Date
-
-**21.12.2025**
