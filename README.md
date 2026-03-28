@@ -21,20 +21,20 @@ See **Section 8: Credits / Attribution** for more information.
 
 ## Previews
 
-![Preview 1](preview/preview1.jpg)
-![Preview 2](preview/preview2.jpg)
-![Preview 3](preview/preview3.jpg)
-![Preview 4](preview/preview4.jpg)
-![Preview 5](preview/preview5.jpg)
-![Preview 1](preview/preview6.jpg)
-![Preview 2](preview/preview7.jpg)
-![Preview 3](preview/preview8.jpg)
-![Preview 4](preview/preview9.jpg)
-![Preview 5](preview/preview10.jpg)
-![Preview 1](preview/preview11.jpg)
-![Preview 2](preview/preview12.jpg)
-![Preview 3](preview/preview13.jpg)
-![Preview 4](preview/preview14.jpg)
+![Preview 1](preview/prev1.jpg)
+![Preview 2](preview/prev2.jpg)
+![Preview 3](preview/prev3.jpg)
+![Preview 4](preview/prev4.jpg)
+![Preview 5](preview/prev5.jpg)
+![Preview 1](preview/prev6.jpg)
+![Preview 2](preview/prev7.jpg)
+![Preview 3](preview/prev8.jpg)
+![Preview 4](preview/prev9.jpg)
+![Preview 5](preview/prev10.jpg)
+![Preview 1](preview/prev11.jpg)
+![Preview 2](preview/prev12.jpg)
+![Preview 3](preview/prev13.jpg)
+![Preview 4](preview/prev14.jpg)
 
 ---
 
@@ -221,3 +221,6 @@ Installation is straightforward as long as you use your own dumped **PS2 Battlef
 
 ---
 
+## Build / Compilation Date
+
+**21.12.2025**
