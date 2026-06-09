@@ -1,4 +1,5 @@
-# STAR WARS BATTLEFRONT (2004) – PS2 ULTIMATE EDITION MOD
+# STAR WARS BATTLEFRONT (2004)
+# PS2 ULTIMATE EDITION MOD
 
 **Game:** Star Wars Battlefront I (2004, Pandemic Studios) – PlayStation 2  
 **Platform:** PlayStation 2 (tested with PCSX2)  
