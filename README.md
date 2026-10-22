@@ -59,7 +59,7 @@ See **Section 8: Credits / Attribution** for more information.
 
 ### DOWNLOAD
 
-green CODE Button --> DOWNLOAD as ZIP
+Use the green CODE Button and DOWNLOAD as ZIP
 
 ### A. Extract the Original ISO
 
