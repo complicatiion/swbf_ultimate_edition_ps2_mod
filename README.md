@@ -146,9 +146,9 @@ This mod includes maps that were not available in the original **SWBF1 PS2** rel
 
 ---
 
-## 6. New Units / Sides
+## 6. New Units / Sides / Modifications
 
-Includes new units for all sides:
+Includes new units / stats for all sides:
 
 - **REP**
 - **IMP**
@@ -198,7 +198,9 @@ And of course:
 - **LucasArts**
 
 Thank you for your work for the community.
+
 These mods have kept Battlefront players happy for years.
+
 This community is true love for the franchise.
 
 ### My Contribution
