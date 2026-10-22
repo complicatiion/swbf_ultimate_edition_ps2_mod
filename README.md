@@ -173,7 +173,7 @@ Various gameplay tweaks and improvements, including:
 
 ## 8. Credits / Attribution
 
-**Important:** Not all work in this mod was created by me.
+**Important:** Not all work in this mod was created by me!
 
 This project is based on content and components released over the years from various mods and the work of the following modders:
 
@@ -198,10 +198,9 @@ And of course:
 - **LucasArts**
 
 Thank you for your work for the community.
-
 These mods have kept Battlefront players happy for years.
+Cheers
 
-This community is true love for the franchise.
 
 ### My Contribution
 
